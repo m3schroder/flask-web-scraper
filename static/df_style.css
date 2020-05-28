@@ -1,0 +1,22 @@
+.mystyle {
+    font-size: 13pt;
+    font-weight: bold; 
+    font-family: Arial;
+    border-collapse: collapse; 
+    border: 1px solid silver;
+    justify-content: 'center';
+    align-items: 'center';
+}
+
+.mystyle td, th {
+    padding: 10px;
+}
+
+.mystyle tr:nth-child(even ) {
+    background: #E0E0E0;
+}
+
+.mystyle tr:hover {
+    background: silver;
+    cursor: pointer;
+}
