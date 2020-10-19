@@ -1,0 +1,4 @@
+Someone requested that I write a bit of code to scrape a gun forum for the newest deals. 
+
+I hosted this code on repl.it so that the requestor could access the information at any time. For the same reason I made
+the output of the program an html based table with hyperlinks.
